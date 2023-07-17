@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uwu-mew-mew-3", "uwu-mew-mew-3\uwu-mew-mew-3.csproj", "{832F803F-C3D5-4D6B-9A81-B478C48DD1D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uwu-mew-mew", "uwu-mew-mew\uwu-mew-mew.csproj", "{832F803F-C3D5-4D6B-9A81-B478C48DD1D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
